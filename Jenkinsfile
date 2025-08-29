@@ -34,7 +34,7 @@
 //             steps {
 //                 script {
 //                     // Let's clone the source
-//                     git 'https://github.com/Sagart0319/CutomerApp_test.git';
+//                     git 'https://github.com/Sagart0319/SimpleCutomerApp_test.git';
 //                 }
 //             }
 //         }
